@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.7 stick{Unbreakable:1,display:{Name:'[{"text":"Kill","italic":false,"color":"dark_red"}]',Lore:['[{"text":"Inflict Death Upon a Crewmate","italic":false,"color":"gray"}]']},Enchantments:[{id:sharpness,lvl:9999}],HideFlags:39} 1

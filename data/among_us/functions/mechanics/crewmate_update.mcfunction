@@ -1,0 +1,1 @@
+execute if score @s deathFlag matches 1.. positioned as @s run function among_us:mechanics/crewmate_ondeath
